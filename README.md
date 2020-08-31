@@ -1,7 +1,8 @@
 # Flappy Bird - Game Programming Chapter 1
 ### by Sultan Ilyas Arsalillah Yuswan Syah
 
-[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/larsspawn/) --  #### @larsspawn
+[![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/larsspawn/)
+#### @larsspawn
 
 
 
